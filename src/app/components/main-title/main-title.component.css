@@ -1,0 +1,10 @@
+.container__main-title {
+  padding: 0;
+  margin: 1rem 0;
+}
+
+.container__main-title > h1 {
+  text-align: center;
+  padding: 1rem 0;
+  font-size: 8em;
+}

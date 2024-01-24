@@ -1,0 +1,42 @@
+.container__small-card {
+  margin: 0;
+  padding: 0;
+}
+
+.container__small-card-content {
+  width: 600px;
+  height: 100px;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.small-card__photo > img {
+  width: 100px;
+  height: auto;
+
+  align-items: center;
+}
+
+.small-card__text {
+  padding-left: 0.5rem;
+}
+
+.small-card__date > p {
+  font-size: 0.7rem;
+  color: #808080;
+  opacity: 90%;
+}
+
+.small-card__description > p > a {
+  font-size: 1.2rem;
+  font-weight: bold;
+
+  text-decoration: none;
+}
+
+.small-card__divisor {
+  opacity: 0.05;
+  margin: 0.5rem auto;
+  width: 50%;
+}
