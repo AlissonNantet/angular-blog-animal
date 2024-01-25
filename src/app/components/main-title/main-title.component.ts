@@ -5,8 +5,9 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   templateUrl: './main-title.component.html',
-  styleUrl: './main-title.component.css'
+  styleUrls: [
+    './main-title.component.css',
+    './main-title.responsive.component.css',
+  ],
 })
-export class MainTitleComponent {
-
-}
+export class MainTitleComponent {}
