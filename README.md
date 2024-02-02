@@ -1,27 +1,34 @@
-# AngularBlog
+# Blog de Animais
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
+Bem-vindo ao repositório do Blog de Animais! Este projeto é uma página web desenvolvida com Angular, TypeScript, HTML e CSS, dedicada a compartilhar informações, histórias e curiosidades sobre animais.
 
-## Development server
+## Tecnologias Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Angular**: Utilizamos o Angular como framework principal para o desenvolvimento da aplicação, facilitando a criação de componentes reutilizáveis, gerenciamento de estado e roteamento.
 
-## Code scaffolding
+- **TypeScript**: A linguagem TypeScript foi escolhida para garantir a tipagem estática e trazer vantagens como autocompletar, refatoração mais segura e uma melhor organização do código.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **HTML e CSS**: A estrutura e o estilo da página são construídos utilizando HTML e CSS para criar uma experiência de usuário agradável e responsiva.
 
-## Build
+## Funcionalidades
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. **Listagem de Artigos**: Os usuários podem explorar uma variedade de artigos sobre diferentes animais, categorizados por espécie, habitat e outros critérios.
 
-## Running unit tests
+2. **Design Responsivo**: Garantimos que a página seja acessível e agradável em dispositivos de diferentes tamanhos, desde computadores desktop até smartphones.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Como Contribuir
 
-## Running end-to-end tests
+Se você deseja contribuir para o desenvolvimento deste projeto, siga estes passos:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Faça um fork do repositório.
+2. Clone o repositório forkado para o seu ambiente local.
+3. Crie uma branch para sua contribuição.
+4. Implemente as melhorias ou correções desejadas.
+5. Faça commits claros e significativos.
+6. Envie um pull request para a branch principal do repositório original.
 
-## Further help
+## Contato
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para entrar em contato, envie um e-mail para: [alissonnantetr@gmail.com](mailto:alissonnantetr@gmail.com)
+
+Agradecemos por contribuir e esperamos que este blog seja uma fonte valiosa de informações sobre o fascinante mundo dos animais! 🐾
