@@ -1,5 +1,5 @@
 img {
-  width: 50px;
+  width: 40px;
   height: auto;
 
   border-radius: 50%;
@@ -34,6 +34,13 @@ a {
 
   border-radius: 0;
 }
+
+/* @media screen and (max-width: 1440px) {
+  .container__menu-bar {
+    max-width: 100%;
+    justify-content: space-between;
+  }
+} */
 
 @media screen and (min-width: 1920px) {
   .container__menu-bar {
